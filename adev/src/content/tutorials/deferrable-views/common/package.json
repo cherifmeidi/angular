@@ -11,7 +11,7 @@
   "dependencies": {
     "@angular/common": "^20.1.0-next",
     "@angular/compiler": "^20.1.0-next",
-    "@angular/core": "^20.1.0-next",
+    "@angular/core": "^20.1.0",
     "@angular/forms": "^20.1.0-next",
     "@angular/platform-browser": "^20.1.0-next",
     "@angular/router": "^20.1.0-next",
