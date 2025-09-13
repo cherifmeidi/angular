@@ -14,9 +14,9 @@
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
-    "@angular/platform-server": "file:../../dist/packages-dist/platform-server",
+    "@angular/platform-server": "19.2.15",
     "@angular/router": "file:../../dist/packages-dist/router",
-    "@angular/ssr": "file:../../node_modules/@angular/ssr",
+    "@angular/ssr": "19.2.16",
     "rxjs": "file:../../node_modules/rxjs",
     "typescript": "file:../../node_modules/typescript",
     "http-server": "file:../../node_modules/http-server"
