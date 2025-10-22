@@ -60,7 +60,7 @@
     "@angular/cdk": "20.1.0-rc.0",
     "@angular/cli": "20.1.0-rc.0",
     "@angular/material": "20.1.0-rc.0",
-    "@angular/ssr": "20.1.0-rc.0",
+    "@angular/ssr": "20.3.6",
     "@babel/cli": "7.28.0",
     "@babel/core": "7.28.0",
     "@babel/generator": "7.28.0",
