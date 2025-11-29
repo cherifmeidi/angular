@@ -9,7 +9,7 @@
   "dependencies": {
     "@angular-devkit/build-angular": "20.1.0-rc.0",
     "@angular/cli": "file:../../node_modules/@angular/cli",
-    "@angular/common": "file:../../dist/packages-dist/common",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@angular/core": "file:../../dist/packages-dist/core",
